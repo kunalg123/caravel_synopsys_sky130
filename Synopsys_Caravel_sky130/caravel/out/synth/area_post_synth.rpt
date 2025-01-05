@@ -1,0 +1,45 @@
+ 
+****************************************
+Report : area
+Design : caravel
+Version: T-2022.03-SP5-6
+Date   : Thu Dec  5 02:29:38 2024
+****************************************
+
+Library(s) Used:
+
+    sky130_fd_sc_hd__tt_025C_1v80 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_fd_sc_hd__tt_025C_1v80.db)
+    sky130_fd_sc_hvl__tt_025C_3v30_lv1v80 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_fd_sc_hvl__tt_025C_3v30_lv1v80.db)
+    gtech (File: /usr/synopsys/syn/T-2022.03-SP5-6/libraries/syn/gtech.db)
+    sky130_fd_sc_hvl__tt_025C_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_fd_sc_hvl__tt_025C_3v30.db)
+    sky130_ef_io__gpiov2_pad_tt_tt_025C_1v80_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__gpiov2_pad_tt_tt_025C_1v80_3v30.db)
+    sky130_fd_io__top_xres4v2_tt_tt_025C_1v80_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_fd_io__top_xres4v2_tt_tt_025C_1v80_3v30.db)
+    sky130_ef_io__vssd_lvc_clamped3_pad_tt_025C_1v80_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vssd_lvc_clamped3_pad_tt_025C_1v80_3v30.db)
+    sky130_ef_io__vssa_hvc_clamped_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vssa_hvc_clamped_pad_tt_025C_1v80_3v30_3v30.db)
+    sky130_ef_io__vccd_lvc_clamped3_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vccd_lvc_clamped3_pad_tt_025C_1v80_3v30_3v30.db)
+    sky130_ef_io__vdda_hvc_clamped_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vdda_hvc_clamped_pad_tt_025C_1v80_3v30_3v30.db)
+    sky130_ef_io__vssd_lvc_clamped_pad_tt_025C_1v80_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vssd_lvc_clamped_pad_tt_025C_1v80_3v30.db)
+    sky130_ef_io__vssio_hvc_clamped_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vssio_hvc_clamped_pad_tt_025C_1v80_3v30_3v30.db)
+    sky130_ef_io__vccd_lvc_clamped_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vccd_lvc_clamped_pad_tt_025C_1v80_3v30_3v30.db)
+    sky130_ef_io__vddio_hvc_clamped_pad_tt_025C_1v80_3v30_3v30 (File: /home/yatharth/vsd_sfal/Synopsys_Caravel_sky130/caravel/pdk/SKY130/sky130_ef_io__vddio_hvc_clamped_pad_tt_025C_1v80_3v30_3v30.db)
+
+Number of ports:                        33771
+Number of nets:                        113033
+Number of cells:                       130854
+Number of combinational cells:          56049
+Number of sequential cells:             52299
+Number of macros/black boxes:            4285
+Number of buf/inv:                      11448
+Number of references:                       7
+
+Combinational area:              60756.863451
+Buf/Inv area:                    35142.453805
+Noncombinational area:          362752.907244
+Macro/Black Box area:           884836.546249
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:               1308346.316945
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
